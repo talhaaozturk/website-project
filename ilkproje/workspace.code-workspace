@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\Klasik Araçlar WEBSİTE"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\website genesis"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "website genesis"
+  }
+}
